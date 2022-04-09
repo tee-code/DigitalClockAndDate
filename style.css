@@ -1,0 +1,70 @@
+body{
+	
+	font:15px/1.5 Arial,Helvetical,sans-serif;
+	margin:0;
+	padding: 0;
+	background-color: #f4f4f4;
+	box-sizing: border-box;
+
+}
+header{
+	
+	width: 100%;
+
+}
+header .container, footer .container{
+	
+	background-color: #005555;
+
+}
+header h2{
+	
+	color: white;
+	padding: 30px;
+	border-bottom: 3px ridge white;
+	font-family: Bradley Hand ITC;
+	-webkit-margin-before: 0;
+    -webkit-margin-after: 0;
+
+}
+main{
+	
+	width: 100%;
+
+}
+main .container{
+	
+	text-align: center;
+	background-color: #005555;
+
+}
+.container{
+	
+	width: 50%;
+	height: auto;
+	margin-left: auto;
+	margin-right: auto;
+	overflow: hidden;
+
+}
+#canvas{
+	
+	margin: auto;
+}
+footer{
+	
+	width: 100%;
+	height: auto;
+	text-align: center;
+
+}
+footer p{
+	
+	color: #f4f4f4;
+	padding: 20px;
+	font-style: italic;
+	border-top: 3px solid white;
+	-webkit-margin-before: 0;
+    -webkit-margin-after: 0;
+
+}
